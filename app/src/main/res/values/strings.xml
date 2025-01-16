@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListyCity</string>
+    <string name="add">Add</string>
+    <string name="Delete">Button</string>
+    <string name="remove">Remove</string>
+    <string name="remove_message">Click on a city to delete it.</string>
+</resources>
